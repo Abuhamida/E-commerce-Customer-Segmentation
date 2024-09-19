@@ -54,6 +54,19 @@ Several visualizations were created to understand the data distribution:
 ![Customer Clusters](images/customer_clusters.png)
 *Visualization of customer clusters*
 
+### 4. Power BI Dashboard
+A comprehensive Power BI dashboard has been created to visualize the results of the analysis and allow for easy exploration of the customer segments. The dashboard is available as a PDF file in this repository.
+
+To view the dashboard:
+1. Navigate to the `dashboard` folder in this repository
+2. Open the file named `E-commerce Customer Segmentation Analysis.pdf`
+
+The dashboard includes:
+- Overview of customer demographics
+- Cluster visualization and characteristics
+- Key metrics and insights for each cluster
+- Interactive filters for exploring different customer segments
+
 ## Results
 The analysis identified 2 distinct customer segments based on their behavior and characteristics. Further investigation into these segments can provide insights for targeted marketing strategies and personalized customer experiences.
 
@@ -64,8 +77,11 @@ The analysis identified 2 distinct customer segments based on their behavior and
 - Matplotlib
 - Seaborn
 - Scikit-learn
+- Microsoft Power BI
 
 ## Future Work
 - Deeper analysis of cluster characteristics
 - Predictive modeling for customer behavior
 - Implementation of recommendations based on segmentation
+- Creation of an interactive version of the Power BI dashboard
+
