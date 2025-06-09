@@ -22,22 +22,22 @@ The data is sourced from an Excel file named 'E-commerce_data.xlsx' containing m
 ### 2. Exploratory Data Analysis (EDA)
 Several visualizations were created to understand the data distribution:
 
-![Gender Distribution](images/gender_distribution.png)
+![Gender Distribution](https://raw.githubusercontent.com/Abuhamida/E-commerce-Customer-Segmentation/main/images/gender_distribution.png)
 *Gender distribution of customers*
 
-![City Distribution](images/city_distribution.png)
+![City Distribution](https://raw.githubusercontent.com/Abuhamida/E-commerce-Customer-Segmentation/main/images/city_distribution.png)
 *Distribution of customers across cities*
 
-![Coupon Transaction Status](images/coupon_status.png)
+![Coupon Transaction Status](https://raw.githubusercontent.com/Abuhamida/E-commerce-Customer-Segmentation/main/images/coupon_status.png)
 *Distribution of coupon burn status*
 
-![Coupon Burns Over Time](images/burns_over_time.png)
+![Coupon Burns Over Time](https://raw.githubusercontent.com/Abuhamida/E-commerce-Customer-Segmentation/main/images/burns_over_time.png)
 *Trend of coupon burns over time*
 
-![Coupon Usage Frequency](images/usage_frequency.png)
+![Coupon Usage Frequency](https://raw.githubusercontent.com/Abuhamida/E-commerce-Customer-Segmentation/main/images/usage_frequency.png)
 *Frequency of coupon usage by customers*
 
-![Coupon Burn Rate](images/burn_rate.png)
+![Coupon Burn Rate](https://raw.githubusercontent.com/Abuhamida/E-commerce-Customer-Segmentation/main/images/burn_rate.png)
 *Distribution of coupon burn rates across customers*
 
 ### 3. Customer Segmentation
@@ -45,13 +45,13 @@ Several visualizations were created to understand the data distribution:
 - Determined optimal number of clusters using elbow method and silhouette score
 - Visualized clusters
 
-![Elbow Method](images/elbow_method.png)
+![Elbow Method](https://raw.githubusercontent.com/Abuhamida/E-commerce-Customer-Segmentation/main/images/elbow_method.png)
 *Elbow method for determining optimal number of clusters*
 
-![Silhouette Score](images/silhouette_score.png)
+![Silhouette Score](https://raw.githubusercontent.com/Abuhamida/E-commerce-Customer-Segmentation/main/images/silhouette_score.png)
 *Silhouette score for different numbers of clusters*
 
-![Customer Clusters](images/customer_clusters.png)
+![Customer Clusters](https://raw.githubusercontent.com/Abuhamida/E-commerce-Customer-Segmentation/main/images/customer_clusters.png)
 *Visualization of customer clusters*
 
 ### 4. Power BI Dashboard
